@@ -1,0 +1,5 @@
+<?php
+
+include "benchmark.php";
+
+?>
